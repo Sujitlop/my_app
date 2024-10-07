@@ -1,0 +1,9 @@
+git init    # initialize the repo
+git status  # tells you about changes (i.e the status)
+            # since the last one
+
+git add [filename] [filename] ...
+git add.    # all the changed files
+
+# make the commit
+git commit - "a description of the changes"
